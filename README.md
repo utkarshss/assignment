@@ -12,8 +12,8 @@ Develop a keyboard input accessory view to be used in messaging or chat applicat
 
 #### Plus points 👍
 
-4. Photos: fetch only recently added `(24 hours)` photos from camera roll and display them with the accessory view.
-5. Allowing memojis with stickers.
+1. Photos: fetch only recently added `(24 hours)` photos from camera roll and display them with the accessory view.
+2. Allowing memojis with stickers.
 
 
 ### Examples
