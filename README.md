@@ -12,7 +12,16 @@ Develop a keyboard input accessory view to be used in messaging or chat applicat
 5. **Allowing memojis with the stickers is a plus point.**
 
 
-### References
+### Examples
 
-<img src="https://raw.githubusercontent.com/Yummypets/YPImagePicker/master/Images/library.PNG" width="200px" > <img src="https://raw.githubusercontent.com/Yummypets/YPImagePicker/master/Images/photo.PNG" width="200px" > <img src="https://raw.githubusercontent.com/Yummypets/YPImagePicker/master/Images/video.PNG" width="200px" > <img src="https://raw.githubusercontent.com/Yummypets/YPImagePicker/master/Images/filters.PNG" width="200px" >
+<img src="https://raw.githubusercontent.com/utkarshss/assignment/master/references/1.PNG" width="200px" > <img src="https://raw.githubusercontent.com/utkarshss/assignment/master/references/2.PNG" width="200px" > <img src="https://raw.githubusercontent.com/utkarshss/assignment/master/references/3.PNG" width="200px" > <img src="https://raw.githubusercontent.com/utkarshss/assignment/master/references/4.PNG" width="200px" >
 
+
+### Stickers
+
+[Stickers](https://github.com/utkarshss/assignment/tree/master/stickers) are included with the repository.
+
+
+### API References
+
+[GIPHY](https://developers.giphy.com/)
