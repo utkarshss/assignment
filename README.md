@@ -5,11 +5,15 @@ Develop a keyboard input accessory view to be used in messaging or chat applicat
 
 ### Features
 
-1. Sticky `UIView` with the options that auto-position itself when keyboard key become responder or resign.
+1. Sticky `UIView` that auto-position itself when keyboard become or resign responder.
 2. Sticker: an option displaying different kinds of stickers and users can select one to send a message.
 3. GIF: third party integration to fetch gifs and repeat-play them when they're visible on screen.
+
+
+#### Plus points 👍
+
 4. Photos: fetch only recently added `(24 hours)` photos from camera roll and display them with the accessory view.
-5. **Allowing memojis with the stickers is a plus point 👍**
+5. Allowing memojis with stickers.
 
 
 ### Examples
